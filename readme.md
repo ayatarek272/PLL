@@ -1,6 +1,6 @@
 # First Day
--Install Ubantu 22.04
--Install Open source tools
+- Install Ubantu 22.04
+- Install Open source tools
  - Xschem
  - ngspice
  - Klayout
