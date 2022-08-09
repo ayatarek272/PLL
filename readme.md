@@ -15,7 +15,7 @@
 # 2nd Day Report
 - watch a [video](https://youtu.be/bm3l21ExLOY) explaining Xschem
 - Run Inverter example using xschem
-  ![inverter schematic](C:\Users\DELL\Documents\mabrains/inverter_trans.PNG)
+  ![inverter schematic](https://drive.google.com/file/d/14ceydLIwrxmjqWVPkwWI87udIan-X7UY/view?usp=sharing)
 - Implement Inverter Layout Using klayout without checking DRC,LVS
 # 3rd Day Report
 - watch the required videos to learn github :
